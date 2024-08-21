@@ -1,6 +1,6 @@
 # 이력서
 
-* [템플릿](https://github.com/sproogen/modern-resume-theme)
+** [템플릿](https://github.com/sproogen/modern-resume-theme)
 
 ## 구동방법
 
