@@ -1,56 +1,33 @@
 - layout: top-middle
-  name: 개발 파트 매니징
-  link: https://www.notion.so/5badc2ba03904832bce8fdf3dc4a407b
-  quote: >
-    2018.04.01 ~ 현재
-  description: | # this will include new lines to allow paragraphs
-    * 인프랩 CTO (2021.07.01 ~ 현재)
-    * 인프랩 신규 서비스(랠릿) 프로젝트 전체 리드 (2021.07.01 ~ 2022.01.31)
-    * 배달의 민족 정산 시스템팀 개발 파트 리드 (2019.07.01 ~ 2021.04.19)
-    * 배달의 민족 포인트 개편 TF 리드 (2018.04.01 ~ 2018.07.31)
-
-- layout: top-middle
-  name: 레거시 시스템 리팩토링/리엔지니어링
+  name: 효율성과 안정성을 위한 애플리케이션 설계
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * 인프런 전체 시스템 (JS & Express => TS & NestJS) 마이그레이션 (2021.06.01 ~ ing..)
-    * 인프런 RDS -> Aurora 마이그레이션 (2021.06.01 ~ 2021.06.20)
-    * [배달의 민족 정산 시스템 AWS 마이그레이션](https://www.youtube.com/watch?v=3ynQeAZpk4Y) (2020.06.01 ~ 2020.11.20)
-    * [배달의 민족 주문 시스템 개편](https://jojoldu.tistory.com/373) (2018.08.01 ~ 2018.10.31)
-    * [배달의 민족 포인트 시스템 개편](http://bit.ly/2EcIXIA) (2018.04.01 ~ 2018.07.31)
-    * [배달의 민족 정산 시스템 개편](http://bit.ly/2ksIEQB) (2017.01.01 ~ 2017.08.17)
+    * 데이터 매핑 효율성을 높이기 위해 인터페이스 및 추상 클래스 설계를 추가하여 시스템의 유연성과 확장성을 강화
+    * 시스템의 일관성과 유지보수성을 향상시키기 위해 예외처리 로직을 공통화
+    * AOP를 활용, 기능을 구현하여 코드의 가독성과 유지보수성 향상
+    * TDD 환경을 구축하여 코드 품질을 향상시키고, 개발 과정에서의 오류를 사전에 방지하는 체계적인 테스트 프레임워크를 구현
 
 - layout: top-middle
-  name: 대용량 데이터 처리 및 성능 개선
+  name: 유지보수 및 최적화 작업 수행
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * 인프런 PostgreSQL SlowQuery 전체 튜닝
-    * 일 주문 300만건의 정산 시스템 API / Batch 개발 및 운영
-    * 일 주문 100만건의 포인트 시스템 메세지큐 / API / Batch 개발 및 운영
-    * 일 PV 2000만건의 포털 메인페이지 개발 및 관리
-    * Message Queue (AWS SQS) 를 이용한 비동기 포인트 처리 / 메일 발송 시스템 구현
-    * [대용량 Batch 시스템 구현](https://jojoldu.tistory.com/category/Spring%20Batch)
-    * [Pinpoint/Ngrinder를 통한 성능 테스트 및 개선](https://jojoldu.tistory.com/318)
-    * [JPA / Querydsl / MySQL 성능 개선](https://jojoldu.tistory.com/tag/db%20%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0)
+    * 고객의 니즈를 분석/개선을 통한 회사 이익에 기여한 성과를 통한 우수사원 표창
+    * 시스템 레거시 청산 주도를 통한 시슽메 성능과 효율성 향상
+    * 공공기관 이관문서에 대한 통계작업 담당
+    * 유지보수 시스템 장애지원 업무 담당
 
 - layout: top-middle
-  name: 견고한 데이터 구조 및 애플리케이션 설계
+  name: 공공기관 SI 프로젝트 참여
   link:
   quote: >
   description: | # this will include new lines to allow paragraphs
-    * 일 600억원 & 300만건 주문에서의 일일 정산
-    * 감사 추적(Audit Trail)을 위한 채권/미수금/보상의 Update가 없는 도메인 설계
-    * 감사 추적(Audit Trail)을 위한 이벤트 기반 포인트 도메인 설계
-    * 정산 프로젝트 TestCode 2500개 / Line Coverage 61%
-
-- layout: top-middle
-  name: IDC 및 AWS 클라우드 인프라 운영 관리
-  link:
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-    * [AWS] Jenkins / Code Deploy / Beanstalk 을 이용한 무중단 배포
-    * [IDC] Jenkins / L4 / Nginx를 이용한 무중단 배포
-    * [IDC] MHA 를 이용한 MariaDB HA 환경 구성
-    * [IDC] Ansible를 이용한 IDC 인프라 자동화
+    * 인천대학교 기록관리시스템 맞춤형 솔루션 제공 및 데이터 마이그레이션 업무 담당 (2021.01 ~ 2021.06)
+    * 인천도시공사 기록관리시스템 맞춤형 솔루션 제공 및 데이터 마이그레이션 업무 담당 (2021.01 ~ 2021.04)
+    * 경북개발공사 기록관리시스템 맞춤형 솔루션 제공 (2020.04 ~ 2020.04)
+    * 한국산업단지공단 기록관리시스템 맞춤형 솔루션 제공 (2020.04 ~ 2020.04)
+    * 기록관리시스템 솔루션 패키지화 프로젝트 담당 (2020.01 ~ 2020.03)
+    * 한국은행 기록관리시스템 구축/설계 및 안정화 지원 업무 담당 (2018.03 ~ 2018.12)
+    * 서울주택도시공사 기록관리시스템 SI 구축 개발 및 문서이관(handy업체와 협업) 담당 (2017.04 ~ 2017.09)
+    * 예금보험공사 기록관리시스템 SI 구축 개발 및 프레임워크 세팅 담당 (2016.08 ~ 2016.12)
