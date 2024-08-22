@@ -20,7 +20,7 @@ github_username:  nkooog
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   <p>Java &amp; 전자정부 / SpringBoot &amp; Apache, Tomcat 기반의 9년차 웹 개발자로
           <strong>공공기관 기록물관리시스템 전문</strong>의 한국문헌정보기술, <strong>클라우드 서비스 기반 CRM &amp; 브로드씨엔에스</strong> 등의 서비스에서 백엔드 및 웹 서비스 개발 구축 등을 해왔습니다.<br />
