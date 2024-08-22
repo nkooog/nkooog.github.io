@@ -19,7 +19,7 @@ github_username:  nkooog
 # youtube_username: UCSEOUzkGNCT_29EU_vnBYjg
 
 # About Section
-# about_title: About Me
+about_title: 자기소개
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   <p>Java &amp; 전자정부 / SpringBoot &amp; Apache, Tomcat 기반의 9년차 웹 개발자로
