@@ -2,7 +2,7 @@
   name: Backend
   description: | # this will include new lines to allow paragraphs
     * Java
-    * Spring Boot, Spring MVC, Spring Security, Spring Data JPA
+    * Spring FrameWork, Spring Boot, Spring MVC, Spring Security, Spring Data JPA
     * iBatis, Mybatis, JPA, Hibernate
     * Junit4/5, Mockito
     * Maven
