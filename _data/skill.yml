@@ -18,7 +18,7 @@
   name: Frontend
   description: | # this will include new lines to allow paragraphs
     * ES6, jQuery
-    * Jsp, Thymeleaf
+    * Jsp, Thymeleaf, vueJs
     * kendoGrid
     * Bootstrap5
 
