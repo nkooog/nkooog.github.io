@@ -1,3 +1,24 @@
+- layout: left
+  company: 브로드씨엔에스
+  job_title: 웹 개발자
+  dates: 2023.11 ~ 
+  quote: >
+   CRM 클라우드 서비스 고객 커뮤니케이션 전문기업
+  description: | # this will include new lines to allow paragraphs
+     * CRM 백엔드 개발/유지보수 담당
+     * eGovFrame, SpringBoot, Thymeleaf, PostgreSQL, ELK
+     
+- layout: left
+  company: 한국문헌정보기술
+  job_title: 웹 개발자
+  dates: 2016.01 ~ 2023.10
+  quote: >
+   기록관리 업무만을 수행한 국내의 대표적인 '기록관리 전문기업'
+  description: | # this will include new lines to allow paragraphs
+     * 솔루션 SI 구축, 유지보수 담당
+     * eGovFrame, JSP, Oracle, Tibero, Cubrid
+
+
 - layout: top-middle
   name: 효율성과 안정성을 위한 애플리케이션 설계
   link:
