@@ -5,9 +5,9 @@
   quote: >
    CRM 클라우드 서비스 고객 커뮤니케이션 전문기업
   description: | # this will include new lines to allow paragraphs
-     * 사내 프로젝트 개발 및 맞춤형 클라우드 솔루션 구축 참여
-     * 전자정부 프레임워크, MyBatis, PostgreSQL 환경에서의 개발 경험
-
+     * CRM 백엔드 개발/유지보수 담당
+     * eGovFrame, SpringBoot, Thymeleaf, PostgreSQL, ELK
+     
 - layout: left
   company: 한국문헌정보기술
   job_title: 웹 개발자
@@ -15,6 +15,5 @@
   quote: >
    기록관리 업무만을 수행한 국내의 대표적인 '기록관리 전문기업'
   description: | # this will include new lines to allow paragraphs
-     * 여러 공공기관 SI 프로젝트 참여
-     * 시스템 유지보수 및 장애지원 경험
-     * 전자정부 프레임워크, MyBatis, Oracle 환경에서의 개발 경험
+     * 솔루션 SI 구축, 유지보수 담당
+     * eGovFrame, JSP, Oracle, Tibero, Cubrid
