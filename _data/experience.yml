@@ -18,5 +18,6 @@
   quote: >
    기록관리 업무만을 수행한 국내의 대표적인 '기록관리 전문기업'
   description: | # this will include new lines to allow paragraphs
-     * 솔루션 SI 구축, 유지보수 담당
+     * 기록관리시스템 SI 구축 (FE/BE 개발)
+     * 자사 솔루션 SM 운영
      * eGovFrame, JSP, Oracle, Tibero, Cubrid
