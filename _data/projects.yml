@@ -1,4 +1,11 @@
-
+- layout: left
+  company: CRM 고도화
+  job_title: 
+  dates: 2024.12 ~ 
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    * Spring Security를 도입, CSRF 토큰 인증 방식을 적용하여 시스템의 보안성을 강화
+    * eGovFrame, Jsp -> SpringBoot, Thymeleaf 개발 환경 변경
 
 - layout: top-middle
   name: 2024.12 - CRM 고도화
