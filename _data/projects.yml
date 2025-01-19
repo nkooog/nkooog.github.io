@@ -5,7 +5,7 @@
   description: | # this will include new lines to allow paragraphs
     * Spring Security를 도입, CSRF 토큰 인증 방식을 적용하여 시스템의 보안성을 강화
     * eGovFrame, Jsp -> SpringBoot, Thymeleaf 개발 환경 변경
-    * 
+   
 
 - layout: top-middle
   name: 2024.01 - CRM CI/CD 구축 및 운영
