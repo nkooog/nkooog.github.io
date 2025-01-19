@@ -1,26 +1,22 @@
 - layout: left
   name: Backend
   description: | # this will include new lines to allow paragraphs
-    * Java
-    * Spring FrameWork, Spring Boot, Spring MVC, Spring Security, Spring Data JPA
-    * iBatis, Mybatis, JPA, Hibernate
-    * Junit4/5, Mockito
-    * Maven
-    * IntelliJ, Visual Studio Code
+    * Java8,17
+    * Spring Boot, Spring MVC, Spring Security, eGovFrame
+    * node.js
 - layout: left
   name: DevOps
   description: | # this will include new lines to allow paragraphs
-    * MySQL, MariaDB, PostgreSQL, Oracle, Tibero, Cubrid
-    * Elasticsearch
-    * Nginx, Apache Tomcat
+    * RDBMS(Oracle, Tibero, PostgreSQL)
+    * GitLab,SVN, Jenkins
+    * Nginx, Apache, tomcat
     * Linux Centos
 - layout: left
   name: Frontend
   description: | # this will include new lines to allow paragraphs
     * ES6, jQuery
     * Jsp, Thymeleaf, vueJs
-    * kendoGrid
-    * Bootstrap5
+    * HTML5, CSS
 
   
 
